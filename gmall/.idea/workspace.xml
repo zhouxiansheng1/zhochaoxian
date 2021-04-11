@@ -51,12 +51,16 @@
       <file leaf-file-name="TestGit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/TestGit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="132">
+              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -842,7 +846,7 @@
       <workItem from="1617629717685" duration="26000" />
       <workItem from="1617794424286" duration="633000" />
       <workItem from="1618128456255" duration="13000" />
-      <workItem from="1618128477784" duration="68000" />
+      <workItem from="1618128477784" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1601369902875</created>
@@ -894,7 +898,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="337732000" />
+    <option name="totallyTimeSpent" value="338228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1321,12 +1325,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/TestGit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="132">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
